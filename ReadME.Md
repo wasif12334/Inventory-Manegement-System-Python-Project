@@ -1,4 +1,4 @@
-<h1>THis Is Inventory MAnegement System </h1>
+<h1>This is Inventory Manegement System </h1>
 <p>
 Item Class: This class defines the properties of an item: name, quantity, and price.
 Inventory Class: This class manages the inventory. It provides methods to add, remove, view, search, and generate reports for items.
